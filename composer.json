@@ -37,7 +37,9 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/alxarafe/"
+            "url": "git@github.com:alxarafe/Core.git",
+            "reference": "master",
+            "packagist.org": false
         }
     ],
     "extra": {
